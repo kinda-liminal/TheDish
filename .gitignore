@@ -1,0 +1,16 @@
+# Simulation output
+conway_runs.csv
+
+# Logs
+run.log
+*.log
+
+# Virtual environment
+.venv/
+
+# Editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
