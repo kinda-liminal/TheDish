@@ -2,7 +2,7 @@
 
 A self-running Conway's Game of Life that reseeds itself and logs every run.
 
-It drops a small random seed into the middle of a 300x300 grid and lets it play out under the standard Life rules. When a run dies off or settles into a loop, it logs the result, reshuffles a fresh seed, and starts again. Every generation gets recorded, so you end up with a growing dataset of how small random seeds behave over time.
+It drops a small random seed into the middle of a 100x100 grid and lets it play out under the standard Life rules. When a run dies off or settles into a loop, it logs the result, reshuffles a fresh seed, and starts again. Every generation gets recorded, so you end up with a growing dataset of how small random seeds behave over time.
 
 ## How it works
 
